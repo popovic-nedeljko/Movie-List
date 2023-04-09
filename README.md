@@ -2,7 +2,9 @@
 
 [Check it out](https://movie-list2022.netlify.app/)
 
-![phone mode](src/img/movies-phone.png) ![app](src/img/movies.png)
+![phone mode](src/img/movies-phone.png)
+<img src='/src/img/movies-phone.png' width=300 height=600>
+![app](src/img/movies.png)
 
 Simple React application that renders a list of movies with their name, year, and image.
 
